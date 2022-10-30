@@ -29,7 +29,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/mhilara/mhcloud.io
-  background: "/images/mhcloudio.jpg"
+  background: "/images/linuxmh.png"
 
   logo:
   main: images/logomh.png
