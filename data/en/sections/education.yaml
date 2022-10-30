@@ -1,0 +1,97 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Open-Source Software, GNU/Linux - Diploma
+  icon: fa-microscope
+  timeframe: 2021
+  institution:
+    name: EGPP Escuela de Gestión Pública Plurinacional
+    url: "https://egpp.gob.bo/"
+  grade: #(optional)
+    #scale: CGPA
+    #achieved: 3.6
+    #outOf: 4
+  publications: #(optional)
+  - title: Linux server administration
+    url: "#"
+  - title: Linux server viirtualization.
+    url: "#"
+  - title: Debian distribution mastering.
+    url: "#"
+  - title: Open-Source platforms Deployment on linux servers.
+    url: "#"
+
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Kubernetes, Docker
+      achieved: 3.75
+      outOf: 4
+    - name: Database administrator
+      achieved: 3.80
+      outOf: 4
+    - name: DevOps
+      achieved: 3.5
+      outOf: 4
+    - name: Amazon Web Services
+      achieved: 3.75
+      outOf: 4
+    - name: SQL Server
+      achieved: 3.80
+      outOf: 4
+
+- name: Bachelor's Degree in Systems Engineering
+  icon: fa-graduation-cap
+  timeframe: 2009-2013
+  institution:
+    name: Universidad Loyola de Bolivia
+    url: "http://www.loyola.edu.bo/"
+  grade: #(optional)
+    #scale: CGPA
+    #achieved: 3.5
+    #outOf: 4
+
+  publications: #(optional)
+  - title: Systems Engineering Fundamentals.
+    url: "#"
+  - title: Highly skilled in IT tools and project management.
+    url: "#"
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+- name: English
+  icon: fa-university
+  timeframe: 2022
+  institution:
+    name: CETI - UMSA
+    url: "https://fhce.umsa.bo/"
+  #grade: #(optional)
+  #  scale: GPA
+  #  achieved: 5
+  #  outOf: 5
+  extracurricularActivities: #(optional)
+  - English.
+  - Spanish.
+  - Aymara.
+#- name: Secondary School Certificate
+#  icon: fa-school
+#  timeframe: 2005-2010
+#  institution:
+#    name: JK School of Science
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 4.5
+#    outOf: 5

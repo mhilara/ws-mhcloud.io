@@ -1,0 +1,76 @@
+baseURL: https://mhcloud.io
+
+languageCode: en-us
+title: "SRE & DBA"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+  es:
+    languageName: Spanish
+    weight: 2
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/mhilara/mhcloud.io
+  background: "/images/mhcloudio.jpg"
+
+  logo:
+  main: images/logomh.png
+  inverted: images/logomh.png
+  favicon: images/logomh.png
+
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 5
+
+    analytics:
+      enabled: true
+      # Google Analytics
+      #google:
+      #  id: G-H4LBG7NDFZ
+      # # CounterDev
+      # counterDev:
+      #   id: <your counterdev id>
+      # # GoatCounter
+      # goatCounter:
+      #   code: <your goat counter code>
+      # # Matomo / Piwik
+      # matomo:
+      #   instance: matomo.example.com
+      #   siteId: 1 # Or any other number
+
+  # Enable dark theme
+  darkMode:
+    provider: darkreader
+    enable: true
+    default: system
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: true
+
+  

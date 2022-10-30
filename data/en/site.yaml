@@ -1,0 +1,13 @@
+# Copyright Notice
+copyright: © 2022 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio  of Milton Hilara.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: SRE & DBA Solutions
+  type: website
+  description: Portfolio and resume of Milton Hilara.
+  image: images/author/mil.png
+  url: https://mhcloud.io.io

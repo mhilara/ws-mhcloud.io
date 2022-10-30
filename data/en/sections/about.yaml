@@ -1,0 +1,70 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: SRE
+# your company information
+company:
+  name: CUCU
+  url: "https://cucu.bo"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Milton_Hilara_Mamani.pdf"
+
+# a summary about you
+summary: 'I am passionate working with technologies that help automate repetitive and manual processes, throughout my career, I had a pleasant experience with systems in the financial sector, trade and tax system in positions such as: SRE/DevOps, DBA, Support, SysAdmin.'
+#PARA LINKEAR
+#[Kubernetes](https://kubernetes.io/)
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mailto:milton.hilara@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/mhilara"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/miltonhilara/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: CKA Certified Kubernetes Administrator
+  url: "https://www.credly.com/badges/3660f3c0-ac4d-44b6-b30d-011be9f07b58/public_url"
+  badge: "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/badges/8a523968-3649-4652-9280-e857294d45df/public_url"
+  badge: "https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+
+- type: certification
+  name: CKA Certified Kubernetes Administrator
+  url: "https://www.credly.com/badges/3660f3c0-ac4d-44b6-b30d-011be9f07b58/public_url"
+  badge: "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 95
+  color: yellow
+- name: Leadership
+  percentage: 90
+  color: blue
+- name: Creativity
+  percentage: 85
+  color: green

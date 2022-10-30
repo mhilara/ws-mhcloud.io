@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Kubernetes
+  filter: "kubernetes"
+- name: API
+  filter: "API"
+- name: Cloud
+  filter: "cloud"
+
+# your projects
+projects:
+- name: REST API Billing
+  logo: /images/sections/projects/api.png
+  role: Professional
+  timeline: "September 2019 - Present"
+  repo: https://www.cucu.bo # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Infrastructure and DevOps technology implementation, CI/CD with Docker/Kubernetes in Amazon Web Services.
+  tags: ["kubernetes", "Docker", "cloud"]
+
+- name: ERP odoo
+  logo: /images/sections/projects/odoo1.png
+  role: Architect
+  timeline: "December 2018 - Present"
+  repo: https://github.com/odoo
+  #url: ""
+  summary: odoo implementation and Cloud architecture design, On-Premise and APIS integration, development using Amazon Web Services.
+  tags: ["cloud", "API", "Docker"]
+
+#- name: A sample academic paper
+#  role: Team Lead
+#  timeline: "Jan 2017 - Nov 2017"
+#  url: "https://www.example.com"
+#  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#  tags: ["academic","iot"]
+
+- name: eCommerce
+  logo: /images/sections/projects/ecommerce.png
+  role: Nothing
+  timeline: "Oct 2019 - Dec 2020"
+  repo: https://github.com/mhilara/mhcloud
+  #url: ""
+  summary: eCommerce project management App MObile with magento, PrestaShop in PlayStore and App Store. API payment/billing integration.
+  tags: ["cloud", "API"]
+
+#- name: Toha
+#  logo: /images/sections/projects/toha.png
+#  role: Owner
+#  timeline: "Jun 2019 - Present"
+#  repo: https://github.com/hossainemruz/toha
+#  summary: A Hugo theme for personal portfolio.
+#  tags: ["hobby","hugo","theme","professional"]

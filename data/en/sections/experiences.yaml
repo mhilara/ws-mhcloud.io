@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: CUCU API.
+    url: "https://www.cucu.bo"
+    location: La Paz - Bolivia
+    # company overview
+    overview: Prepare, manage Linux servers and Open Source App in Amazon Web Services , GCP, ALibabacloud, provide CI/CD tools with Kubernetes, Docker and Jenkins.
+  positions:
+  - designation: SRE
+    start: September 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - DevOps/SRE methodologies Open Source - Docker, Kubernetes, Jenkins, Grafana.
+    - Deploy SQL and NOSQL database instances in AWS, GCP, Alibabacloud.
+    - Deploy RDS services, EC2, EKS, DynamoDB, Lambda, Linux servers on AWS.
+    - Scrum agile methodologies' management.
+    - Continuous integration (CI/CD) on Amazon Web Services, Digital Ocean.
+
+#- designation: Junior Software Engineer
+#  start: Nov 2017
+#  end: Oct 2019
+#  responsibilities:
+#  - Implement and test xyz feature for abc tool.
+#  - Support client for abc tool.
+#  - Learn k,d,w technology for xyz.
+
+- company:
+    name: Bisa Seguros y Reaseguros S.A.
+    url: "https://www.bisaseguros.com/"
+    location: La Paz - Bolivia
+    overview: Database administration and version migration management.
+  positions:
+  - designation: DBA
+    start: October 2021
+    #end: May 2017
+    responsibilities:
+     - Implement SQL Server, PostgreSQL, MySQL, DB2 database engines.
+     - Optimize servers and tuning of databases and scripts.
+     - Implement backup policies and scheduled tasks in databases.
+     - SQL Server Engine and Database version management and deployment.
+     - SSIS, SSAS, DB and Reporting Services, PowerBI packages Deployment.
+     - Troubleshooting of servers and SQL Server / Open Source Databases.
+     - Agile Kanban methodologies.
+
+- company:
+    name: Banco de Crédito de Bolivia S.A. - BCP
+    url: "https://www.bcp.com.bo/"
+    location: La Paz - Bolivia
+    overview: Production application troubleshooting management, SQL Server (Windows/Linux Server) databases management, Data WareHouse administration.
+  positions:
+  - designation: Production Control Analyst
+    start: June 2014
+    end: February 2020
+    responsibilities:
+    - SQL Server servers and databases Troubleshooting.
+    - Backups and scheduled tasks in Databases administration.
+    - Databases, SSIS, SSAS and Windows/Linux Servers maintenance.
+    - Management of reports, compliance with regulatory entities.
+    - Support and management for production releases with Developers

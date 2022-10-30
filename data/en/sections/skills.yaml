@@ -1,0 +1,39 @@
+ #section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Amazon Web Services
+  logo: "/images/sections/skills/aws.png"
+  summary: "Infrastructure implementation and resource optimization, along with cloud/On-Premise data migration."
+  url: "https://aws.amazon.com/"
+
+- name: Kubernetes
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Experience with kubernetes administration, deploying APIs in cloud solutions and linux server management."
+  url: "https://kubernetes.io/"
+
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Deployment and administration Linux servers in Cloud Computing platform, backup and high availability."
+  url: "https://www.linux.org/"
+
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: "Container deployment, image customization and management of development and production environments."
+
+- name: SQL Server
+  logo: "/images/sections/skills/sql-server.svg"
+  summary: "Database administration, backup, troubleshooting and version management along with SSAS, SSIS, Reporteing Services and PowerBI services."
+
+- name: PostgreSQL
+  logo: "/images/sections/skills/posgresql.png"
+  summary: "Postgres database servers management in AWS, GCP, Azure, Alibabacloud and backups, high availability troubleshooting."
