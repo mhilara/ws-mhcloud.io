@@ -46,14 +46,14 @@ badges:
   badge: "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
+  name: AWS Certified Cloud Practitioner
   url: "https://www.credly.com/badges/8a523968-3649-4652-9280-e857294d45df/public_url"
   badge: "https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 
 - type: certification
-  name: CKA Certified Kubernetes Administrator
-  url: "https://www.credly.com/badges/3660f3c0-ac4d-44b6-b30d-011be9f07b58/public_url"
-  badge: "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+  name: AWS Certified DevOps Engineer – Professional
+  url: "https://www.credly.com/badges/6c51cb6e-67d6-4dd3-ba9f-b418f29ab5cc/public_url"
+  badge: "https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
