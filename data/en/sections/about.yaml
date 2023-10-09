@@ -26,7 +26,7 @@ summary: 'I am passionate working with technologies that help automate repetitiv
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "mailto:milton.hilara@gmail.com"
+  url: "support@mhcloud.io"
 
 - name: Github
   icon: "fab fa-github"
@@ -55,6 +55,11 @@ badges:
   url: "https://www.credly.com/badges/6c51cb6e-67d6-4dd3-ba9f-b418f29ab5cc/public_url"
   badge: "https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
 
+- type: certification
+  name: LFCS Linux Foundation Certified Systems Administrator
+  url: "https://www.credly.com/badges/fc4ea70d-be65-497c-8548-ed7acbedbaf2/public_url"
+  badge: "https://images.credly.com/size/680x680/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png"
+  
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange

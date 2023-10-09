@@ -28,23 +28,30 @@ projects:
   repo: https://www.cucu.bo # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Infrastructure and DevOps technology implementation, CI/CD with Docker/Kubernetes in Amazon Web Services.
-  tags: ["kubernetes", "Docker", "cloud"]
+  tags: ["kubernetes", "Docker", "cloud", "AWS", "GCP"]
 
-- name: ERP odoo
-  logo: /images/sections/projects/odoo1.png
+- name: Data Analytics
+  logo: /images/sections/projects/datanalytics.png
   role: Architect
-  timeline: "December 2018 - Present"
-  repo: https://github.com/odoo
+  timeline: "December 2022 - Present"
+  repo: https://mhcloud.io
   #url: ""
-  summary: odoo implementation and Cloud architecture design, On-Premise and APIS integration, development using Amazon Web Services.
-  tags: ["cloud", "API", "Docker"]
+  summary: Deployment joint solutions to centralize and analyze information in real time with cloud and on-premise technologies.
+  tags: ["Database", "API", "SQL", "PowerBI", "SQL Server", "AWS"]
 
-#- name: A sample academic paper
-#  role: Team Lead
-#  timeline: "Jan 2017 - Nov 2017"
-#  url: "https://www.example.com"
-#  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-#  tags: ["academic","iot"]
+- name: Database Migration
+  role: DBA
+  timeline: "Feb 2022 - Sep 2023"
+  url: "https://mhcloud.io"
+  summary: Version migration and database engine change with replication and high availability, backup policies in cloud and on-premises environments.
+  tags: ["PostgrSQL", "SQL Server", "MySQL", "Linux Server",  "AWS"]
+
+- name: Linux Servers
+  role: Architect
+  timeline: "Dec 2022 - Dec 2023"
+  url: "https://mhcloud.io"
+  summary: Virtualization and migration of Windows Servers to Linux Servers with Open-Source technologies in cloud and on-premises environments.
+  tags: ["Linux", "Docker", "Kubernetes", "Debian/Ubuntu",  "AWS"]
 
 - name: eCommerce
   logo: /images/sections/projects/ecommerce.png
@@ -52,8 +59,8 @@ projects:
   timeline: "Oct 2019 - Dec 2020"
   repo: https://github.com/mhilara/mhcloud
   #url: ""
-  summary: eCommerce project management App MObile with magento, PrestaShop in PlayStore and App Store. API payment/billing integration.
-  tags: ["cloud", "API"]
+  summary: eCommerce project management App Mobile with magento, PrestaShop in PlayStore and App Store. API payment/billing integration.
+  tags: ["cloud", "API", ""]
 
 #- name: Toha
 #  logo: /images/sections/projects/toha.png
