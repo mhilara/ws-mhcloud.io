@@ -28,7 +28,7 @@ projects:
   repo: https://www.cucu.bo # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Infrastructure and DevOps technology implementation, CI/CD with Docker/Kubernetes in Amazon Web Services.
-  tags: ["kubernetes", "Docker", "cloud", "AWS", "GCP"]
+  tags: ["kubernetes", "Docker", "cloud", "AWS", "GCP", "Git"]
 
 - name: Data Analytics
   logo: /images/sections/projects/datanalytics.png
@@ -37,7 +37,7 @@ projects:
   repo: https://mhcloud.io
   #url: ""
   summary: Deployment joint solutions to centralize and analyze information in real time with cloud and on-premise technologies.
-  tags: ["Database", "API", "SQL", "PowerBI", "SQL Server", "AWS"]
+  tags: ["Database", "API", "ChatGPT API", "PowerBI", "SQL Server", "AWS", "API"]
 
 - name: Database Migration
   role: DBA
