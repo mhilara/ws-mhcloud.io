@@ -7,7 +7,7 @@ image: "/images/author/milavatar.jpg"
 
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "sre@mhcloud.io"
+  email: "mhcloud@mhcloud.io"
   phone: "+591 72054236"
   stack-overflow:
     icon: stack-overflow
@@ -16,9 +16,11 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I'm a SRE & DBA
-  - I love automate repetitive and manual processes
+  - I currently work and have experience as SRE & DBA.
+  - I love automating repetitive processes and making magic with technology.
   - I like to work with open-source technologies
   - I love to work with cloud solutions
   - I have a good experience with {
   - AWS, Docker, Kubernetes, Jenkins, Database administration }
+  - I have experience working with PostgreSQL and SQL Server databases.
+  - In recent months, I have integrated AI into processes through APIs.
