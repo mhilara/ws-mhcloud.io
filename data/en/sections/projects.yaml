@@ -60,7 +60,7 @@ projects:
   repo: https://github.com/mhilara
   #url: ""
   summary: eCommerce project management App Mobile with magento, ERP Odoo, PrestaShop in PlayStore and App Store. API payment/billing integration.
-  tags: ["cloud", "API", ""]
+  tags: ["Cloud", "API", "Linux Server", "Docker", "PostgreSQL", "AWS"]
 
 - name: DB Engines Docker/Kubernetes
   role: DBA & SRE
