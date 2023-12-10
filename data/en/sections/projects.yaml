@@ -62,7 +62,7 @@ projects:
   summary: eCommerce project management App Mobile with magento, PrestaShop in PlayStore and App Store. API payment/billing integration.
   tags: ["cloud", "API", ""]
 
-- name: Database engines Docker/Kubernetes
+- name: MSQL, PG Docker/Kubernetes
   role: DBA & SRE
   timeline: "Sep 2022 - Dic 2023"
   url: "https://mhsys.io"
