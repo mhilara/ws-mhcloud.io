@@ -53,21 +53,21 @@ projects:
   summary: Virtualization and migration of Windows Servers to Linux Servers with Open-Source technologies in cloud and on-premises environments.
   tags: ["Linux", "Docker", "Kubernetes", "Debian/Ubuntu",  "AWS"]
 
-- name: eCommerce
+- name: eCommerce, Marketplace, ERP
   logo: /images/sections/projects/ecommerce.png
   role: Nothing
   timeline: "Oct 2019 - Dec 2020"
   repo: https://github.com/mhilara
   #url: ""
-  summary: eCommerce project management App Mobile with magento, PrestaShop in PlayStore and App Store. API payment/billing integration.
+  summary: eCommerce project management App Mobile with magento, ERP Odoo, PrestaShop in PlayStore and App Store. API payment/billing integration.
   tags: ["cloud", "API", ""]
 
-- name: MSQL, PG Docker/Kubernetes
+- name: DB Engines Docker/Kubernetes
   role: DBA & SRE
   timeline: "Sep 2022 - Dic 2023"
   url: "https://mhsys.io"
   summary: Implementation of cloud infrastructure for SQL Server and PostgreSQL databases on Linux with Docker technology and multi-node Kubernetes.
-  tags: ["PostgrSQL", "SQL Server", "Kubernetes", "Linux Server",  "Docker"]
+  tags: ["Kubernetes", "Linux Server",  "Docker", "PostgrSQL", "SQL Server"]
 
 #- name: Toha
 #  logo: /images/sections/projects/toha.png
